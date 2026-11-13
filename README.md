@@ -15,7 +15,7 @@ const samuel = {
   nombre: "Samuel Santiago Ramírez Fierro",
   ubicacion: "Neiva, Huila",
   formacion: "Tecnólogo en Análisis y Desarrollo de Software (ADSO)",
-  stack: ["JavaScript", "Python", "Java", "PHP", "MySQL", "Git", "Hostinger"],
+  stack: ["JavaScript", "Python", "PHP", "MySQL", "Git"],
   enfoque: "Del análisis de requisitos al código que funciona",
 };
 ```
@@ -26,7 +26,7 @@ const samuel = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php,nodejs,react,mysql&perline=10" alt="Lenguajes y frameworks" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,nodejs,react,mysql&perline=10" alt="Lenguajes y frameworks" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
@@ -39,16 +39,21 @@ const samuel = {
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Santiagopro23YT&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagopro23YT&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalles del perfil" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estadísticas" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Lenguajes con más commits" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos por lenguaje" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horario más productivo" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Santiagopro23YT&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santiagopro23YT&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trofeos" />
 </p>
 
 ---
