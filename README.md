@@ -15,7 +15,7 @@ const samuel = {
   nombre: "Samuel Santiago Ramírez Fierro",
   ubicacion: "Neiva, Huila",
   formacion: "Tecnólogo en Análisis y Desarrollo de Software (ADSO)",
-  stack: ["JavaScript", "Python", "PHP", "MySQL", "Git"],
+  stack: ["HTML", "CSS", "JavaScript", "PHP", "Python", "PostgreSQL", "Git"],
   enfoque: "Del análisis de requisitos al código que funciona",
 };
 ```
@@ -26,11 +26,11 @@ const samuel = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,nodejs,react,mysql&perline=10" alt="Lenguajes y frameworks" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,postgres&perline=10" alt="Lenguajes y frameworks" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,windows&perline=10" alt="Herramientas" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&perline=10" alt="Herramientas" />
   </a>
 </p>
 
