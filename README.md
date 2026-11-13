@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Samuel+Santiago+%F0%9F%91%8B;Estudiante+de+An%C3%A1lisis+y+Desarrollo+de+Software;Neiva%2C+Huila+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Samuel+Santiago;Estudiante+de+ADSO;Neiva%2C+Huila" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Santiagopro23YT&style=for-the-badge&color=38bdf8&label=Visitas" alt="Visitas al perfil" />
 
@@ -8,12 +8,12 @@
 
 ---
 
-### 🙋‍♂️ Sobre mí
+### Sobre mí
 
 ```js
 const samuel = {
   nombre: "Samuel Santiago Ramírez Fierro",
-  ubicacion: "Neiva, Huila 🇨🇴",
+  ubicacion: "Neiva, Huila",
   formacion: "Tecnólogo en Análisis y Desarrollo de Software (ADSO)",
   stack: ["JavaScript", "Python", "Java", "PHP", "MySQL", "Git", "Hostinger"],
   enfoque: "Del análisis de requisitos al código que funciona",
@@ -22,7 +22,7 @@ const samuel = {
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Tecnologías y herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@ const samuel = {
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Santiagopro23YT&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas" />
@@ -53,7 +53,7 @@ const samuel = {
 
 ---
 
-### 🐍 Mis contribuciones
+### Mis contribuciones
 
 <p align="center">
   <picture>
